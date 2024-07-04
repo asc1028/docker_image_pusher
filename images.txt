@@ -4,4 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 yidadaa/chatgpt-next-web
-chenzhaoyu94/chatgpt-web
+zhayujie/chatgpt-on-wechat
