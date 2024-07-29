@@ -7,3 +7,4 @@ yidadaa/chatgpt-next-web
 zhayujie/chatgpt-on-wechat
 justsong/one-api:latest
 redis:latest
+mysql:8.2.0
