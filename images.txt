@@ -9,3 +9,4 @@ justsong/one-api:latest
 redis:latest
 mysql:8.2.0
 ollama/ollama
+qwenllm/qwen:2-cu121
