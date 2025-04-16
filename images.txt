@@ -13,3 +13,4 @@ qwenllm/qwen:2-cu121
 gpustack/gpustack
 n8n-io/n8n
 docker.n8n.io/n8nio/n8n
+n8nio/n8n
