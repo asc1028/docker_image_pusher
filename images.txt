@@ -4,13 +4,8 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 yidadaa/chatgpt-next-web
-zhayujie/chatgpt-on-wechat
 justsong/one-api:latest
 redis:latest
 mysql:8.2.0
-ollama/ollama
 qwenllm/qwen:2-cu121
 gpustack/gpustack
-n8n-io/n8n
-docker.n8n.io/n8nio/n8n
-n8nio/n8n
