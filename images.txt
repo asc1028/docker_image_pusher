@@ -7,5 +7,5 @@ yidadaa/chatgpt-next-web
 justsong/one-api:latest
 redis:latest
 mysql:8.2.0
-qwenllm/qwen:2-cu121
+gpustack/gpustack:latest-npu
 gpustack/gpustack
