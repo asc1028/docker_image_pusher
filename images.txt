@@ -9,3 +9,4 @@ redis:latest
 mysql:8.2.0
 gpustack/gpustack:latest-npu
 gpustack/gpustack
+ollama/ollama
