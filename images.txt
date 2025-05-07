@@ -12,4 +12,4 @@ gpustack/gpustack
 ollama/ollama
 gpustack/gpustack:latest-npu-310p
 --platform linux/arm64 gpustack/gpustack:latest-npu
---platform linux/arm64 ollama/ollama
+leopony/ollama
