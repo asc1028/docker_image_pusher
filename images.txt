@@ -15,3 +15,4 @@ gpustack/gpustack:latest-npu-310p
 leopony/ollama
 rocket.chat
 mongo:4.4
+rocketchat/hubot-rocketchat
