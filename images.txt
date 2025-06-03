@@ -14,5 +14,5 @@ gpustack/gpustack:latest-npu-310p
 --platform linux/arm64 gpustack/gpustack:latest-npu
 leopony/ollama
 rocket.chat
-mongo:latest
+mongo:6.0
 rocketchat/hubot-rocketchat
