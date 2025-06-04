@@ -16,3 +16,4 @@ leopony/ollama
 rocket.chat
 mongo:6.0
 rocketchat/hubot-rocketchat
+ubuntu
