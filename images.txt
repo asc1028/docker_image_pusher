@@ -5,7 +5,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 yidadaa/chatgpt-next-web
 justsong/one-api:latest
-redis:latest
+redis:alpine
 mysql:8.2.0
 gpustack/gpustack:latest-npu
 gpustack/gpustack
@@ -15,3 +15,6 @@ gpustack/gpustack:latest-npu-310p
 leopony/ollama
 mongo:6.0
 ubuntu
+tailchat
+minio/minio
+traefik:v2.1
