@@ -10,7 +10,7 @@ gpustack/gpustack:latest-npu
 gpustack/gpustack:latest-npu-310p
 --platform linux/arm64 gpustack/gpustack:latest-npu
 leopony/ollama
-mongo:6.0
+mongo:4
 ubuntu
 moonrailgun/tailchat
 minio/minio
