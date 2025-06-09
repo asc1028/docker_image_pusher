@@ -12,6 +12,6 @@ gpustack/gpustack:latest-npu-310p
 leopony/ollama
 mongo:6.0
 ubuntu
-msgbyte/tailchat
+moonrailgun/tailchat
 minio/minio
 traefik:v2.1
