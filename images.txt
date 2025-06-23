@@ -4,7 +4,7 @@ xhofe/alist:latest
 #支持指定架构
 yidadaa/chatgpt-next-web
 justsong/one-api:latest
-redis:alpine
+redis:7.2-alpine
 mysql:8.2.0
 gpustack/gpustack:latest-npu
 gpustack/gpustack:latest-npu-310p
