@@ -16,3 +16,4 @@ moonrailgun/tailchat
 minio/minio
 traefik:v2.1
 bitnami/mongodb:6.0
+iredmail
