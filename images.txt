@@ -9,10 +9,4 @@ mysql:8.2.0
 gpustack/gpustack:latest-npu
 gpustack/gpustack:latest-npu-310p
 --platform linux/arm64 gpustack/gpustack:latest-npu
-leopony/ollama
-mongo:8
-ubuntu
-minio/minio
-traefik:v2.1
-bitnami/mongodb:6.0
-iredmail
+
