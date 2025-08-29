@@ -10,4 +10,4 @@ gpustack/gpustack:latest-npu
 gpustack/gpustack:latest-npu-310p
 --platform linux/arm64 gpustack/gpustack:latest-npu
 gpustack/gpustack:latest
-n8n-io/n8n
+n8nio/n8n
