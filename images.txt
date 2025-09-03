@@ -11,3 +11,4 @@ gpustack/gpustack:latest-npu-310p
 --platform linux/arm64 gpustack/gpustack:latest-npu
 gpustack/gpustack:latest
 docker.n8n.io/n8nio/n8n
+hiyouga/llamafactory:latest
