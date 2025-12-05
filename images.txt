@@ -13,3 +13,4 @@ gpustack/gpustack:latest
 docker.n8n.io/n8nio/n8n
 hiyouga/llamafactory:latest
 gpustack/gpustack:latest-cuda12.8
+quay.io/gpustack/gpustack:v2.0.0
