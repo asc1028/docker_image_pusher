@@ -14,4 +14,3 @@ henrygd/beszel:latest
 hiyouga/llamafactory:latest
 gpustack/gpustack:latest-cuda12.8
 quay.io/gpustack/gpustack:v2.0.0
-henrygd/beszel:latest
