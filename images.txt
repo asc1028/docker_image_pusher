@@ -11,6 +11,7 @@ gpustack/gpustack:latest-npu-310p
 --platform linux/arm64 gpustack/gpustack:latest-npu
 gpustack/gpustack:latest
 henrygd/beszel:latest
+henrygd/beszel-agent
 hiyouga/llamafactory:latest
 gpustack/gpustack:latest-cuda12.8
 quay.io/gpustack/gpustack:v2.0.0
